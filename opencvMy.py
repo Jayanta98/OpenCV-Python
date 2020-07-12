@@ -16,3 +16,5 @@ cv2.imshow("gray image",grayMatrix)
 
 cv2.waitKey()
 cv2.destroyAllWindows()
+
+#By : Jayanta Ghosh
